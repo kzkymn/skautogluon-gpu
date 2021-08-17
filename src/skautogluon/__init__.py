@@ -1,0 +1,1 @@
+from .skautogluon import TabularPredictorWrapper
